@@ -1,4 +1,4 @@
-# Exercise 1.6 - Message Three Times
+# Exercise 1.7 - Greeting
 
 Write a program that prompts the user for their name with the message "What's your name?". When the user has written their name, the program has to print "Hi " followed by the user's name.
 
@@ -18,7 +18,7 @@ Example output when user gives the name Ada.
 Hi Ada
 ```
 
-Example output when user gives the name Ada.
+Example output when user gives the name Lily.
 
 ```plaintext
 *Lily*
