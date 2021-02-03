@@ -1,6 +1,6 @@
 # Exercise 1.7 - Greeting
 
-Write a program that prompts the user for their name. When the user has written their name, the program has to print "Hi " followed by the user's name.
+Write a program that takes user input. When the user has written their name, the program has to print "Hi " followed by the user's name.
 
 The exercise template comes with a program template that includes the function and its call.
 
