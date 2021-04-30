@@ -18,4 +18,4 @@ def test_exercise():
 
     src.exercise.main()
 
-    assert output == ["","Hi Scott"]
+    assert output == ["What is your name?","Hi Scott"]
